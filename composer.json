@@ -1,0 +1,16 @@
+{
+    "name": "boom/hotel-api",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "App\\Controllers\\": "src/controllers/",
+            "App\\Models\\": "src/models/" 
+        }
+    },
+    "authors": [
+        {
+            "name": "Boomwerk"
+        }
+    ],
+    "require": {}
+}
